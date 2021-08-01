@@ -1,0 +1,14 @@
+E:\C# Programs\PakistanTour\PakistanTour\bin\Debug\PakistanTour.exe.config
+E:\C# Programs\PakistanTour\PakistanTour\bin\Debug\PakistanTour.exe
+E:\C# Programs\PakistanTour\PakistanTour\bin\Debug\PakistanTour.pdb
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.csprojAssemblyReference.cache
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.Form1.resources
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.Properties.Resources.resources
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.Sindh.resources
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.csproj.GenerateResource.cache
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.csproj.CoreCompileInputs.cache
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.exe
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.pdb
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.Punjab.resources
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.Balochistan.resources
+E:\C# Programs\PakistanTour\PakistanTour\obj\Debug\PakistanTour.KhyberPakhtunKhuwa.resources
